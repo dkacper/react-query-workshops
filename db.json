@@ -1,0 +1,118 @@
+{
+  "hotels": [
+    {
+      "id": "5a3c2101-ec9e-4fee-969b-a98fca5ca0dd",
+      "name": "Wehner, Grady and Abbott",
+      "description": "Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+      "price": "$3340.21"
+    },
+    {
+      "id": "77d99550-7e35-4434-b63a-2586ca92f0ad",
+      "name": "Gorczany LLC",
+      "description": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst.",
+      "price": "$6462.30"
+    },
+    {
+      "id": "2e52850d-3875-4f7c-b9ff-b5a121b95539",
+      "name": "Homenick, Dare and Streich",
+      "description": "In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl. Nunc nisl.",
+      "price": "$8199.93"
+    },
+    {
+      "id": "3cbc59fc-1540-4ac3-bfdf-d7e87b7c1651",
+      "name": "Altenwerth-Bogan",
+      "description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique.",
+      "price": "$7964.70"
+    },
+    {
+      "id": "e4dc03f7-8784-469a-97a7-f7d0c9a1345b",
+      "name": "D'Amore, Bauch and Ondricka",
+      "description": "Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
+      "price": "$3512.80"
+    },
+    {
+      "id": "584b4749-c6d8-4e6b-a7a7-00380475c392",
+      "name": "Witting-Medhurst",
+      "description": "Sed accumsan felis. Ut at dolor quis odio consequat varius. Integer ac leo.",
+      "price": "$6127.09"
+    },
+    {
+      "id": "9e6a3523-80f8-4522-85b5-271620694935",
+      "name": "Murray LLC",
+      "description": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",
+      "price": "$3246.46"
+    },
+    {
+      "id": "a5f923e8-c665-4151-ad0b-dbb824ec7d78",
+      "name": "Gerhold-Roob",
+      "description": "Nulla nisl. Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
+      "price": "$3031.20"
+    },
+    {
+      "id": "d0124f74-2240-4c5a-8a7e-1f06bedb547d",
+      "name": "Kulas-Dooley",
+      "description": "Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
+      "price": "$4371.89"
+    },
+    {
+      "id": "853cf602-1bff-40b0-a9ec-21fa8ded5b10",
+      "name": "Murphy and Sons",
+      "description": "Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus.",
+      "price": "$6558.20"
+    },
+    {
+      "id": "6b027c54-bb6d-4a6b-96f7-6724c8e13f6b",
+      "name": "Tromp and Sons",
+      "description": "Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus.",
+      "price": "$1129.69"
+    },
+    {
+      "id": "fe7c300d-5067-44e5-aa40-7ef28f845fb5",
+      "name": "Hermiston, Hoeger and Barton",
+      "description": "Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum. In hac habitasse platea dictumst.",
+      "price": "$9215.78"
+    },
+    {
+      "id": "971a5055-7c5d-4410-acbe-32ef83539ead",
+      "name": "Nienow-Corwin",
+      "description": "Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",
+      "price": "$7896.67"
+    },
+    {
+      "id": "e997e52b-ce57-40d1-bcbd-0a7b440d7a30",
+      "name": "Mueller and Sons",
+      "description": "In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
+      "price": "$1429.18"
+    },
+    {
+      "id": "7f11a8d5-5317-4fcb-a7a3-a268eb0ac2ca",
+      "name": "Witting Inc",
+      "description": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
+      "price": "$8585.32"
+    },
+    {
+      "id": "1fab51a6-beed-4e59-80d4-77c0565575cb",
+      "name": "Lind, Kemmer and Quigley",
+      "description": "Etiam faucibus cursus urna. Ut tellus. Nulla ut erat id mauris vulputate elementum.",
+      "price": "$4933.05"
+    },
+    {
+      "id": "686309c7-fd7f-4f4d-82e3-0fe86ad366d5",
+      "name": "Kshlerin, Stoltenberg and Mayert",
+      "description": "Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst.",
+      "price": "$6690.33"
+    },
+    {
+      "id": "b06033b9-1442-4d33-bdc6-8855e0508b1e",
+      "name": "Schiller-Goldner",
+      "description": "Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
+      "price": "$9726.93"
+    },
+    {
+      "id": "58da21a0-2d68-4092-bd68-e8a3e8c1574d",
+      "name": "Conn, Armstrong and Fadel",
+      "description": "Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi.",
+      "price": "$7656.31"
+    }
+  ]
+}
