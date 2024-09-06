@@ -1,6 +1,7 @@
 "use client";
 import * as React from "react";
 import { Button, Paper, Stack, TextInput, Title } from "@mantine/core";
+import {useEffect} from "react";
 
 export interface HotelFormValues {
   name: string;
@@ -27,6 +28,14 @@ export function AddHotelForm(props: AddHotelFormProps) {
       onSubmit({ name, description, price: `$${price}` });
     }
   };
+
+  useEffect(() => {
+    if (!isSubmitting) {
+      setName("");
+      setDescription("Lorem ipsum description.");
+      setPrice("7999");
+    }
+  }, [isSubmitting]);
 
   return (
     <Paper p="lg" withBorder>
